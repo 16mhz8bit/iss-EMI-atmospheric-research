@@ -1,2 +1,0 @@
-You can find all the raw photos taken during ISS mission in the PHOTO.zip archive.
-Download and unzip, go inside the folder and 'unzip photos.zip' in the terminal to extract all the photos from the multiple archives.
